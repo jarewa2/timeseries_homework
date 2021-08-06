@@ -21,6 +21,6 @@ Use the results of the time series analysis and modeling to answer the following
 
 Use the results of the linear regression analysis and modeling to answer the following question:
 
-* Does this model perform better or worse on out-of-sample data compared to in-sample data?
+1. Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
 > The model performed better on the out-of-sample data since the RMSE we found here is about 0.4155 which is smaller than the in-sample data RSME of 0.598.
